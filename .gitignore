@@ -9,4 +9,3 @@ build
 logs/
 /volumes/
 .DS_Store
-quorum-test-network/*
